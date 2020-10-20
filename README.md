@@ -10,7 +10,7 @@ The point of this project was to provide visualizaions and analysis of the provi
 
 [link to story](https://public.tableau.com/shared/7SCNBQX9B?:display_count=y&:origin=viz_share_link)
 
-# Here are some of the examples of visualizations  made in the workbook 
+### Here are some of the examples of visualizations  made in the workbook 
 
 ![](Images/TripsbyWeekdayperHour.png)
 ---
